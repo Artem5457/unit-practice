@@ -1,0 +1,15 @@
+{
+  "name": "unit-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getPlan.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
